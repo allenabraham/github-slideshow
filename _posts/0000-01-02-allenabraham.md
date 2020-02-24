@@ -2,5 +2,5 @@
 l ayout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+in this world we have crazy 
 Use the left arrow to go back!
